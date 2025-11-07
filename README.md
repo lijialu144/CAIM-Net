@@ -30,9 +30,9 @@ The DynamicEarthNet dataset original image can be downloaded： https://mediatum
 
 The SpaceNet7 dataset original image can be downloaded： https://gitcode.com/Resource-Bundle-Collection/6e3fe/tree/main
 
-The DynamicEarthNet dataset used in our paper after processing can be download: https://pan.baidu.com/s/1zatEQIYVgMrcy1IDUnVrBw 提取码：1442 
+The DynamicEarthNet dataset used in our paper after processing can be download: https://pan.baidu.com/s/1vnZ-Pm6vJq0IIqYZsLifnw 提取码: 7w4h
 
-The SSpaceNet7 dataset used in our paper after processing can be download: https://pan.baidu.com/s/1zatEQIYVgMrcy1IDUnVrBw 提取码：1442 
+The SpaceNet7 dataset used in our paper after processing can be download:https://pan.baidu.com/s/1xVaUYx4ZU77Rl-pZIw4QaA 提取码: 4d4b
 
 ### Data Processing
 Before Training the model, you need to run the Fsplit, create_xys, and custom files in the data_processing folder.
