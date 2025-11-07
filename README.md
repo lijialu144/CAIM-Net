@@ -50,7 +50,7 @@ Python Test_Dynamic.py</code></pre>
 You can directly test our model by our provided training weights in best_model. 
 The training weights for DynamicEarthNet dataset can be downloaded: https://pan.baidu.com/s/1EicxwYLrMYmOxyMDx_UIjQ 提取码: fw5i
 
-<pre><code id="copy-text">save_path = best_model + 'Pretrained_model_Dynamic.pth'</code></pre>
+<pre><code id="copy-text">save_path = best_model + 'CAIMNet_Dynamic.pth'</code></pre>
 
 ### Training and Testing CAIM-Net on SpaceNet7 dataset
 
@@ -63,7 +63,7 @@ Python Test_SpaceNet7.py</code></pre>
 you can directly test our model by our provided training weights in best_model. 
 The training weights for SpaceNet7 dataset can be downloaded: https://pan.baidu.com/s/1CYfRxlt089fJngu4ge7Y3w 提取码: 7yti
 
-<pre><code id="copy-text">save_path = best_model + 'Pretrained_model_SpaceNet7.pth'</code></pre>
+<pre><code id="copy-text">save_path = best_model + 'CAIMNet_SpaceNet7.pth'</code></pre>
 
 ### Citation 
 if you use this code for your research, please cite our papers. 
